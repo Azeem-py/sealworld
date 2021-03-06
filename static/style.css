@@ -1,0 +1,47 @@
+.navbar-brand{
+    font-size: 24px;
+    color: #071277 !important;
+    font-weight: 900;
+}
+
+.nav-ul li a{
+    color: #0077b6 !important;
+    font-size: 20px;
+    font-weight: 500;
+}
+.nav-ul li a:hover, .nav-ul li .active{
+    color: #023e8a !important;
+}
+
+.intro{
+    height: 300px !important;
+    background-image: url("img/motherboard2.jpg") !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+}
+
+.intro h1{
+    font-size: 25px;
+    /* margin-top: 60px;
+    margin-bottom: 10px; */
+}
+.intro h2{
+    font-size: 23px;
+    /* margin-top: 40px; */
+}
+
+.intro-more{
+    /* text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%; */
+    color: #03045e;
+    font-weight: 700;
+}
+
+
+.banner-img{
+    height: 500px !important;
+}
